@@ -1,0 +1,10 @@
+student_id,socioeconomic_status,distance_to_school,parental_support
+BSCIT001,2,2,3
+BSCIT002,1,2.5,2
+BSCIT003,3,1.5,4
+BSE101,3,3,3
+BSE102,4,1.3,3
+BSE103,2,2.1,3
+BBIT011,1,1.1,4
+BBIT012,3,1,4
+BBIT013,4,0.3,2

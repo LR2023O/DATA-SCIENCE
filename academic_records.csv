@@ -1,0 +1,10 @@
+student_id,attendance_rate,average_grade,failed_subjects
+BSCIT001,90,85,1
+BSCIT002,96,94,0
+BSCIT003,80,90,1
+BSE101,70,88,1
+BSE102,98,80,2
+BSE103,90,92,1
+BBIT011,80,75,2
+BBIT012,68,78,2
+BBIT013,50,60,3
